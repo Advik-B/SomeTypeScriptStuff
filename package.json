@@ -1,0 +1,19 @@
+{
+  "name": "sometypescriptstuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advik-B/SomeTypeScriptStuff.git"
+  },
+  "author": "",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Advik-B/SomeTypeScriptStuff/issues"
+  },
+  "homepage": "https://github.com/Advik-B/SomeTypeScriptStuff#readme"
+}
