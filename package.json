@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Advik-B/SomeTypeScriptStuff/issues"
   },
-  "homepage": "https://github.com/Advik-B/SomeTypeScriptStuff#readme"
+  "homepage": "https://github.com/Advik-B/SomeTypeScriptStuff#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
